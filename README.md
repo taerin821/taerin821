@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20Welcome%20My%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20Welcome!%20%20My%20Github!&fontSize=60)
 ### 👋 Nice way to meet me
 <p>
   <a href="mailto:taerin821@gmail.com" target="_blank"><img src="https://img.shields.io/badge/taerin821@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
