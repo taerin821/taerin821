@@ -29,6 +29,16 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
+<br><br>
+
+### 📚 Project
+|class|team|project name|
+|-----|----|------------|
+|인공지능소프트웨어|QA|[OSS 개인 과제](https://github.com/taerin821/OSS-Project)|
+|로봇공학과| SMART | [유니버셜 키오스크](https://github.com/taerin821/Universal-Design-Kiosk)|
+|로봇공학과| SMART | 업에이트 예정|
+|로봇공학과| SMART | 업에이트 예정|
+
+<br>
 
 <img src="https://raw.githubusercontent.com/taerin821/github-stats-transparent/output/generated/languages.svg" width="40%"/>
-
