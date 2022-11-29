@@ -2,10 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20Welcome!%20%20My%20Github!&fontSize=60)
 ### 👋 Nice way to meet me
-
-
-
-
+<a href="mailto:taerin821@gmail.com" target="_blank"><img src="https://img.shields.io/badge/taerin821@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://diamond-scabiosa-f6c.notion.site/0bd265152d334dab9b393dc200992f4f"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
 <p>
    ✨ I'm <b>Student at Dongyang Mirae University
 
@@ -40,11 +38,11 @@
 
 <br>
 
-
+<!--
 ### 👉 contact to me 👈
 <a href="mailto:taerin821@gmail.com" target="_blank"><img src="https://img.shields.io/badge/taerin821@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://diamond-scabiosa-f6c.notion.site/0bd265152d334dab9b393dc200992f4f"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
-<!--
+
 <img src="https://raw.githubusercontent.com/taerin821/github-stats-transparent/output/generated/languages.svg" width="40%"/>
 -->
 
