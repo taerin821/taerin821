@@ -40,5 +40,6 @@
 |로봇공학과| SMART | 업에이트 예정|
 
 <br>
-
+<!--
 <img src="https://raw.githubusercontent.com/taerin821/github-stats-transparent/output/generated/languages.svg" width="40%"/>
+-->
