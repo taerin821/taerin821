@@ -35,7 +35,7 @@
 |인공지능소프트웨어|QA-06|[OSS-TeamProject](https://github.com/robotos1/TeamProject)|
 |로봇공학과| SMART | [유니버셜 키오스크](https://github.com/taerin821/Universal-Design-Kiosk)|
 |로봇공학과| SMART | 업데이트 예정|
-|로봇공학과| SMART | 업이트 예정|
+|로봇공학과| SMART | 업데이트 예정|
 
 <br>
 
